@@ -19,4 +19,7 @@ This repository contains the "Amazon Sales Dashboard 2024" visualization, which 
 4. **Visual Design:**
    - Interactive and visually appealing components, including pie charts, line charts, and maps.
 
+**Dataset**
+
+**Screenshot**
 
