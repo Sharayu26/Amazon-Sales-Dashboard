@@ -24,4 +24,7 @@ https://github.com/Sharayu26/Amazon-Sales-Dashboard/blob/main/Sales%20Data.xlsx
 
 # Screenshot
 
-<img src="https://github.com/Sharayu26/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Analysis.png" alt="myql-logo" width="800" height="400"/>(https://github.com/Sharayu26/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Analysis.png) &nbsp;
+<img src="https://github.com/Sharayu26/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Analysis.png" alt="myql-logo" width="800" height="400"/>
+
+
+      (https://github.com/Sharayu26/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Analysis.png) &nbsp;
